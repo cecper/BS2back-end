@@ -1,4 +1,4 @@
-# Backend service
+# Backend service  te
 
 This is the backend-service of our webshop. This service provides an API for our frontend, rendering JSON-objects, and interacts with our MySQL-database.
 Dit is de backend-service van onze webshop. Deze service voorziet een API voor onze frontend, gebruik makend van JSON om te communiceren, en slaat alle data op in een MySQL-databankt
